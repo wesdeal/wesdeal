@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I graduated from UConn with a BS in Computer Science and have since been a Software Dev in FinTech. I am currently learning and working with C++ to land a full-time SD/SWE position.
+I graduated from UConn with a BS in Computer Science and have since been working in FinTech and studying for my SIE to learn more about the securities industry and overall finance.
 
 * 🌍  I'm based in NYC Metropolitan
 * ✉️  You can contact me at [wesleydealdev@gmail.com](mailto:wesleydealdev@gmail.com)
